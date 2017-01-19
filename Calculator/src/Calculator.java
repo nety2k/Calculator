@@ -1,4 +1,4 @@
-// Add 1,2
+// Add 1,2,3
 public class Calculator {
 
 	
